@@ -1,0 +1,24 @@
+{
+    "id": 69696969,
+    "name": "Nivel de ejemplo",
+    "author": "Host del collab o creador del nivel",
+    "creators": ["Creador1", "Creador2", "Creador3"],
+    "verifier": "Verificador",
+    "verification": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "percentToQualify": 69,
+    "password": "Contraseña del nivel",
+    "records": [
+        {
+            "user": "FirstVictorDelNivel",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MiPrimitoChico",
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "percent": 2,
+            "hz": 69
+        }
+    ]
+}
